@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class Leetcode {
+public class Twosum {
     // brute force o(n^2)and o(1) two for loops.
     //optimal o(n) and o(n)
     //     Traverse the array once. For each element num, compute diff = target - num.
